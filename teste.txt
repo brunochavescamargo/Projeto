@@ -1,0 +1,15 @@
+1- quando aprovado = 
+
+descricao do fornecedor
+usuario do de-para
+tudo que esta no grid de itens
+quanto tempo foi aprovado
+
+
+data_liber
+hora_liber
+
+
+2- layout responsivo  - ok
+
+3- quando conferido = 1 data_conf = today
